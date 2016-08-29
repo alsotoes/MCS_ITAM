@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import matplotlib.pyplot as plt
 from matplotlib.legend_handler import HandlerLine2D
 from scipy.misc import factorial
