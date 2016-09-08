@@ -1,2 +1,4 @@
 # MCS_ITAM
-ITAM Master in computing science
+Master in computing science
+
+Algorithm analysis class exercices
