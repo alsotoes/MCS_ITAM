@@ -1,0 +1,5 @@
+alvaro@skyline.headup.local: /Volumes/ZBox/Google Drive/MCC/AnalisisDeAlgoritmos/MCS_ITAM/algorithmAnalysis/codes
+hist:540  jobs:0 $ gcc knapsack.c  -o knapsack
+alvaro@skyline.headup.local: /Volumes/ZBox/Google Drive/MCC/AnalisisDeAlgoritmos/MCS_ITAM/algorithmAnalysis/codes
+hist:541  jobs:0 $ ./knapsack 
+Optimal value => 143
