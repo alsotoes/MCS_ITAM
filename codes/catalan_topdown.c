@@ -14,9 +14,9 @@ long int catalan(int n){
  
 int main(int argc, char **argv){
     int i;
-    int count = atoi(argv[1]) + 1;
+    int count = atoi(argv[1]);
 
-    for (i=0; i<count; i++)
+    for (i=0; i<=count; i++)
         printf("%ld ",catalan(i) );
     return 0;
 }
